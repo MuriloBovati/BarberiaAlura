@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
   ![logo-branco](https://user-images.githubusercontent.com/93354240/224363383-2a8dea84-58ae-443e-90d7-cdb9715d1ee9.png)
@@ -11,23 +9,26 @@
 
 </div>
 
-## Objetivo
-Curso Alura barbearia, projeto com finalizade de desenvolvimento pessoal colocando em pratica oque foi desenvolvido no curso
-Um cliente esta
+## 👨‍🔬 Objetivo
+Curso Alura barbearia, projeto com finalidade de desenvolvimento pessoal colocando em prática oque foi desenvolvido no curso.
 
-## Layoiut Web
+O cliente está querendo uma página web para mostrar a seus clientes um pouco sobre sua barbearia, ele quer algo simples 
+mostrando seus produtos, sua localidade e quer também que seus clientes tenha a possibilidade de se cadastrar em sua página para facilitar o agendamento.
 
-## Layout Mobile
+## 🖥 Layout Web
 
-#Tecnologias uutilizadas
-##Back end
+## 📱 Layout Mobile
 
-##Front end
+# 🛠 Tecnologias utilizadas
+## 👩‍💻 Front end
 
-#Implantação em produção
-Aonde foi hospedado as tecnlogias
+- HTML
+- CSS
+- JavaScript
 
-#Como executar
-Esplicar como fazer pra rodas na maquina
+# ⚙ Implantação em produção
+- site hospedado no proprio GitHub
 
-#Autor
+# 🙋‍♂️ Autor
+- Meu Portifolio <a href="https://murilobovati.github.io/portfolio/">Acessar</a>
+- Alura <a href="https://www.alura.com.br/">Acessar</a>

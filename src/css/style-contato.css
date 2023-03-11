@@ -1,0 +1,122 @@
+form {
+	margin: 40px 0;
+	width: 50%;
+}
+
+form label, form legend {
+	display:block;
+	font-size: 20px;
+	margin: 0 0 10px;
+}
+
+.input-padrao {
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 100%;
+}
+
+.checkbox {
+	margin: 20px 0;
+}
+
+.enviar {
+	width:40%;
+	padding: 15px 0;
+	background: orange;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;
+	transition: .3s all;
+	cursor: pointer;
+}
+
+.enviar:hover {
+	background: darkorange;
+	transform: scale(1.1);
+}
+
+table {
+	margin: 20px 0 40px;
+}
+
+thead {
+	background: #555555;
+	color: white;
+	font-weight: bold;
+}
+
+td, th {
+	border: 1px solid #000000;
+	padding: 8px 15px;
+}
+
+@media (max-width:1100px) {
+	form {
+		margin: 40px 0;
+		width: 100%;
+	}
+	form > label{
+		font-size: 2.3em;
+	}
+
+	.input-padrao{
+		width: 90%;
+		line-height: 2.3em;
+	}
+
+	.input-padrao::placeholder{
+		font-size: 2.3em;
+	}
+
+	fieldset > legend{
+		font-size: 2.3em;
+	}
+
+	fieldset > label{
+		font-size: 2.3em;
+	}
+
+	td{
+		font-size: 2.3em;
+	}
+
+	.enviar{
+		font-size: 2.3em;
+	}
+
+}
+
+@media (max-width:840px) {
+	form > label{
+		font-size: 1em;
+	}
+
+	.input-padrao{
+		width: 90%;
+		line-height: 1em;
+	}
+
+	.input-padrao::placeholder{
+		font-size: 1em;
+	}
+
+	fieldset > legend{
+		font-size: 1em;
+	}
+
+	fieldset > label{
+		font-size: 1em;
+	}
+
+	td{
+		font-size: 1em;
+	}
+
+	.enviar{
+		width: 100%;
+		font-size: 1em;
+	}
+}

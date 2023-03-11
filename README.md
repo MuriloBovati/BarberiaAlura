@@ -10,6 +10,9 @@
 </div>
 
 ## 👨‍🔬 Objetivo
+
+<a href="https://murilobovati.github.io/BarberiaAlura/" target="_blank">Acessar</a>
+
 Curso Alura barbearia, projeto com finalidade de desenvolvimento pessoal colocando em prática oque foi desenvolvido no curso.
 
 O cliente está querendo uma página web para mostrar a seus clientes um pouco sobre sua barbearia, ele quer algo simples 

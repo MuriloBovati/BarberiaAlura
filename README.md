@@ -16,8 +16,10 @@ O cliente está querendo uma página web para mostrar a seus clientes um pouco s
 mostrando seus produtos, sua localidade e quer também que seus clientes tenha a possibilidade de se cadastrar em sua página para facilitar o agendamento.
 
 ## 🖥 Layout Web
+![index](https://user-images.githubusercontent.com/93354240/224511353-4de6451f-09ce-49c5-89ab-b795d7e61f2d.png)
 
 ## 📱 Layout Mobile
+![indexmobile](https://user-images.githubusercontent.com/93354240/224511356-82a5b856-e3ba-4dc9-a4f9-2bc6c6fd69e5.jpeg)
 
 # 🛠 Tecnologias utilizadas
 ## 👩‍💻 Front end
